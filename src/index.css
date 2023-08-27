@@ -1,7 +1,7 @@
 @import-normalize; /* bring in normalize.css styles */
 
 body {
-  background: linear-gradient(to bottom, blue, yellow);
+  background: linear-gradient(to bottom, rgb(48, 130, 252), yellow);
   margin: 0;
   background-attachment: fixed;
   background-repeat: no-repeat;

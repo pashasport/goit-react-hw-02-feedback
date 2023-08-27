@@ -18,7 +18,7 @@ export const Button = styled.button`
   &:hover,
   &:focus {
     color: white;
-    background-color: #196deb;
+    background-color: rgb(48, 130, 252);
     cursor: pointer;
   }
 `;
